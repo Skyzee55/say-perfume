@@ -28,7 +28,7 @@ const Navbar = () => {
                 {/* Logo Sebelah Kiri */}
                 <div className="flex items-center gap-3">
                     <Link to={'/'} className='flex items-center gap-3'>
-                        <img src="/src/assets/its_logo.png" className='h-8 w-8 object-cover rounded-sm' alt="" />
+                        <img src="/its_logo.png" className='h-8 w-8 object-cover rounded-sm' alt="" />
                         <span className='text-white font-black tracking-widest uppercase text-lg'>SAY.PERFUME</span>
                     </Link>
                 </div>
